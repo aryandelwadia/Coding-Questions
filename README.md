@@ -5,7 +5,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 ## Features
 
 - **Variety of Problems**: Includes a wide range of problems from different topics in DSA, such as Arrays, Linked Lists, Trees, Graphs, Heaps, Sorting, Searching, Dynamic Programming, and more.
-- **Solutions in Multiple Languages**: Solutions are available in popular programming languages like Python, C++, Java, and more.
+- **Solutions in Multiple Languages**: Solutions are available in popular programming language C++.
 - **Problem Difficulty Levels**: Problems are classified into three levels: Easy, Medium, and Hard, allowing users to progressively improve their skills.
 - **Explanations and Comments**: Many solutions include detailed explanations and comments to help you understand the approach used to solve the problem.
 
@@ -23,15 +23,6 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 - Backtracking
 - Greedy Algorithms
 
-## Getting Started
-
-To get started with the repository, simply clone it to your local machine:
-
-```bash
-git clone https://github.com/yourusername/dsa-questions.git
-```
-
-After cloning, you can explore the different directories corresponding to each topic and start solving problems based on your interests and skill level.
 
 ## Contributing
 
