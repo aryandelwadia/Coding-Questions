@@ -1,6 +1,6 @@
 # DSA Questions Repository
 
-This repository contains a collection of Data Structures and Algorithms (DSA) problems and solutions to help you improve your problem-solving skills. The problems are categorized based on different topics, ranging from basic data structures like arrays and linked lists to advanced algorithms like dynamic programming and graph theory.
+This repository contains a collection of Data Structures and Algorithms (DSA) problems and solutions to help you improve your problem-solving skills. The problems are categorized based on different topics, ranging from basic data structures like arrays and linked lists to advanced algorithms like dynamic programming and graph theory. :)
 
 ## Features
 
