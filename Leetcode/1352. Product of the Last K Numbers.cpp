@@ -23,7 +23,7 @@ vector<int> ans;
     
     int getProduct(int k) 
     {
-        if(k>=ans.size()){
+        if(k >= ans.size()){
             return 0;    
         }
         else {
