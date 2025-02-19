@@ -17,7 +17,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 - Trees (Binary Trees, BSTs)
 - Graphs (DFS, BFS, etc.)
 - Heaps
-- Sorting Algorithms
+- Sorting Algorithms 
 - Searching Algorithms
 - Dynamic Programming
 - Backtracking
