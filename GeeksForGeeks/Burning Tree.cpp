@@ -29,7 +29,7 @@ Node *buildTree(string str) {
     vector<string> ip;
 
     istringstream iss(str);
-    for (string str; iss >> str;)
+    for (string str; iss >> str;) 
         ip.push_back(str);
 
     // Create the root of the tree
