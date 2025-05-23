@@ -27,7 +27,7 @@ class Solution {
         
         return dp[n][x];
     }
-
+ 
   public:
     int noOfWays(int m, int n, int x) {
         // code here
